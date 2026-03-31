@@ -15,17 +15,23 @@
 
 
 
-## 🛠️ Skills
-- Java, Python, C, Kotlin  
-- HTML, CSS, JavaScript  
-- Git & GitHub  
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,vscode" />
+</p>
 
 
 ## 🚀 Projects
-- 🎮 Brick Breaker Game  
-- 🌦️ Weather App  
-- 🔐 Phishing URL Detector  
 
+### 🎮 Brick Breaker Game
+🔗 https://github.com/purbadutta-20/BrickBreaker-2.0
+
+### 🤖 Expression Animal
+🔗 https://github.com/purbadutta-20/EXPRESSION-ANIMAL
+
+### 📚 Desktop Tutorial
+🔗 https://github.com/purbadutta-20/desktop-tutorial
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=purbadutta-20&show_icons=true)
@@ -33,3 +39,7 @@
 
 ## 📫 Contact
 - Email: purbadutta2005@gmail.com
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
