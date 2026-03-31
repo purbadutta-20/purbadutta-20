@@ -1,4 +1,8 @@
-# Hi 👋, I'm Purbadutta
+<h1 align="center">Hi 👋, I'm Purbadutta</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer+in+Progress;Java+%7C+Python+%7C+Web+Dev;Building+Cool+Projects+🚀" />
+</p>
 
 💻 3rd Year Computer Science Student  
 🚀 Aspiring Developer  
