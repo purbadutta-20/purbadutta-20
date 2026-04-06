@@ -39,9 +39,11 @@ AI-based gesture + face-recognition project
 Beginner-friendly desktop guide project
 🔗 https://github.com/purbadutta-20/desktop-tutorial
 
+
 ## 📊 GitHub Stats
 
-![Purbadutta's GitHub stats](https://github-readme-stats.vercel.app/api?username=purbadutta-20&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purbadutta-20&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purbadutta-20&layout=compact&theme=tokyonight)
 
 ## 🐍 Contribution Snake
