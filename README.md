@@ -46,9 +46,11 @@ Beginner-friendly desktop guide project
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purbadutta-20&layout=compact&theme=tokyonight)
 
+
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/purbadutta-20/purbadutta-20/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/purbadutta-20/purbadutta-20/output/github-contribution-grid-snake.svg)
+
 
 ## 📫 Contact
 - Email: purbadutta2005@gmail.com
