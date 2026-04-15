@@ -27,6 +27,11 @@
 
 ## 🚀 Projects
 
+### 🎓 EduQuest
+A gamified STEM learning platform designed for rural education in Odisha.
+🔗 https://github.com/purbadutta-20/EDUQUEST
+🌍 https://eduquest-peach-ten.vercel.app
+
 ### 🎮 Brick Breaker Game
 python-based game using pygame with scoring system
 🔗 https://github.com/purbadutta-20/BrickBreaker-2.0
