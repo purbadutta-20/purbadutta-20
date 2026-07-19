@@ -32,6 +32,10 @@ A gamified STEM learning platform designed for rural education in Odisha.
 🔗 https://github.com/purbadutta-20/EDUQUEST
 🌍 https://eduquest-peach-ten.vercel.app
 
+### 🛡️ Phishing Detector
+A Machine Learning-powered web application that detects phishing websites by analyzing URLs and domain intelligence.
+🔗 https://github.com/purbadutta-20/Phishing-Detector
+
 ### 🎮 Brick Breaker Game
 python-based game using pygame with scoring system
 🔗 https://github.com/purbadutta-20/BrickBreaker-2.0
